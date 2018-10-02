@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="140" height="150" viewBox="0 0 140 150">
+  <defs>
+    <style>
+      .cls-7 {
+        fill: url(#linear-gradient-5);
+      }
+    </style>
+    <linearGradient id="linear-gradient-5" gradientUnits="userSpaceOnUse" x1="69" y1="90.281" x2="69" y2="64.375">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.1"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.2"/>
+    </linearGradient>
+  </defs>
+  <g id="1svg">
+    <path d="M24.362,64.394 C24.362,64.394 57.012,90.315 57.012,90.315 C57.012,90.315 59.687,88.419 59.687,88.419 C59.687,88.419 61.024,85.258 61.024,85.258 C61.024,85.258 61.024,83.361 61.024,83.361 C61.024,83.361 41.366,64.394 41.366,64.394 C41.366,64.394 24.362,64.394 24.362,64.394 ZM77.883,64.394 C77.883,64.394 109.599,89.422 109.599,89.422 C109.599,89.422 112.274,87.525 112.274,87.525 C112.274,87.525 113.612,84.365 113.612,84.365 C113.612,84.365 113.612,82.468 113.612,82.468 C113.612,82.468 89.516,64.394 89.516,64.394 C89.516,64.394 77.883,64.394 77.883,64.394 Z" id="path-5" class="cls-7" fill-rule="evenodd"/>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg id="world-pin.svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="35.437" height="50.938" viewBox="0 0 35.437 50.938">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="824.844" y1="771.344" x2="860.281" y2="771.344" gradientUnits="userSpaceOnUse">
+      <stop offset="0.45" stop-color="#02d980"/>
+      <stop offset="0.55" stop-color="#00bf70"/>
+    </linearGradient>
+  </defs>
+  <path id="ad" class="cls-1" d="M842.564,745.882a17.759,17.759,0,0,0-17.73,17.819c0,13.369,17.73,33.1,17.73,33.1s17.73-19.735,17.73-33.1A17.761,17.761,0,0,0,842.564,745.882Z" transform="translate(-824.844 -745.875)"/>
+  <circle id="c" class="cls-2" cx="18.328" cy="18.093" r="7.578"/>
+</svg>
